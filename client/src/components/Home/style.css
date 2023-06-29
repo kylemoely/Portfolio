@@ -1,0 +1,29 @@
+.home-body{
+    /* background-color: aqua; */
+}
+
+.pic{
+    border-radius:10px;
+    box-shadow: 5px 4px 5px rgba(43, 81, 147, 0.33);
+    max-height:325px;
+}
+
+.home-sections{
+    border: 2px solid rgb(255, 200, 134);
+    background-color:bisque;
+    border-radius: 7px;
+}
+
+.title{
+    font-weight:700;
+    font-size:20px;
+}
+
+.logo{
+    max-height:200px;
+    max-width:200px;
+}
+
+.jspic{
+    height:200px;
+}
