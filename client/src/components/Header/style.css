@@ -13,8 +13,9 @@
     color: #ffe5e5;
 }
 
-navbar *{
+.links *{
     color:#ffe5e5;
     margin-left:20px;
     font-size:20px;
+    text-decoration: none;
 }

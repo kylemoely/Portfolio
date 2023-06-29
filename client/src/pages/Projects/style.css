@@ -1,0 +1,7 @@
+.containers{
+    background-color: aqua;
+}
+
+.containers *{
+    background-color: aq;
+}
