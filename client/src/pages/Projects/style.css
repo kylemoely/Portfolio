@@ -1,7 +1,33 @@
-.containers{
-    /* background-color: aqua; */
+.project{
+    background-color:blueviolet;
+    margin-bottom: 25px;
+    border-radius: 12px;
+    border: 2px solid black;
+    position:relative;
 }
 
-.containers *{
-    background-color: aq;
+.project img{
+    border-radius: inherit;
+}
+ 
+.overlay{
+    position: absolute;
+    height:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width:100%;
+    overflow:hidden;
+    transition:.5s ease;
+    background-color:rgba(137, 137, 137, 0.85);
+    border-radius: inherit;
+}
+
+.projectOne:hover .overlayOne{
+    height:100%;
+}
+
+.descrip{
+    font-weight:500;
+    font-size:18px;
 }
