@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.f19f4216.css",
+    "main.js": "/Portfolio/static/js/main.4efc2669.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Portfolio/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/resumepic.jpg": "/Portfolio/static/media/resumepic.94e7904ad76f2687bc63.jpg",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.e716a9177b978c152423.pdf",
+    "static/media/marvel.png": "/Portfolio/static/media/marvel.b5f287614edb49b7b12d.png",
+    "static/media/blog.PNG": "/Portfolio/static/media/blog.ebda569d27f8285951a5.PNG",
+    "static/media/sql.PNG": "/Portfolio/static/media/sql.9e8ea5c854dcd9a1bfe4.PNG",
+    "static/media/steam.JPG": "/Portfolio/static/media/steam.3be0f7082a0b5f0c8ba1.JPG",
+    "index.html": "/Portfolio/index.html",
+    "main.f19f4216.css.map": "/Portfolio/static/css/main.f19f4216.css.map",
+    "main.4efc2669.js.map": "/Portfolio/static/js/main.4efc2669.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Portfolio/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f19f4216.css",
+    "static/js/main.4efc2669.js"
+  ]
+}
