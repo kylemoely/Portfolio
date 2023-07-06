@@ -1,13 +1,15 @@
 .project{
-    background-color:blueviolet;
+    background-color:rgb(255, 255, 255);
     margin-bottom: 25px;
     border-radius: 12px;
     border: 2px solid black;
     position:relative;
+    height:initial;
 }
 
 .project img{
     border-radius: inherit;
+    height: inherit;
 }
  
 .overlay{
@@ -23,7 +25,11 @@
     border-radius: inherit;
 }
 
-.projectOne:hover .overlayOne{
+.overlay div{
+    margin: 2px;
+}
+
+.projectOne:hover .overlayOne, .projectTwo:hover .overlayTwo, .projectThree:hover .overlayThree, .projectFour:hover .overlayFour{
     height:100%;
 }
 

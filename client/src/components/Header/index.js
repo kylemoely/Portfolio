@@ -12,7 +12,7 @@ export default function Header() {
                     <div className='col-12 col-md-3'></div>
                 </div>
                 <div className='container-fluid row d-flex justify-content-around '>
-                    <div className='subtitle col-12 col-sm-3'>Junior Software Developer</div>
+                    <div className='subtitle col-12 col-sm-3'>Software Developer</div>
                     
                     <div className='links d-flex col-12 col-sm-3 justify-content-between align-items-end'>
                         <Link className='butn Home' to='/'>Home</Link>
