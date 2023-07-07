@@ -15,7 +15,7 @@ export default function Header() {
                     <div className='subtitle col-12 col-sm-3'>Software Developer</div>
                     
                     <div className='links d-flex col-12 col-sm-3 justify-content-between align-items-end'>
-                        <Link className='butn Home' to='/'>Home</Link>
+                        <Link className='butn Home' to='/Portfolio'>Home</Link>
                         <Link className='butn Resume' to='/resume'>Resume</Link>
                         <Link className='butn Projects' to='/projects'>Projects</Link>
                         <Link className='butn Contact' to='/contact'>Contact</Link>
